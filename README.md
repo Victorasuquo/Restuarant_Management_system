@@ -1,4 +1,4 @@
-# PROBLEM STATEMENT
+## PROBLEM STATEMENT
 
 
 
@@ -7,7 +7,7 @@
 
 
 
-# RESTUARANT MANAGEMENT SYSTEM 
+## RESTUARANT MANAGEMENT SYSTEM 
 
 A Restuarant Management System is a type of Point-of-sales (POS) Software that is specifically designed for Restuarants, bars, foodtrucks and others in the FoodService Industry. Unlike Point of sales, Restuarant Management System encompasses all Backend needs such as inventory an staff management, etc. A Restuarant Mangement Sytems or Softwares are intended to assist leaders and others in carrying out the most critical Management tasks.
 
@@ -17,13 +17,14 @@ However some Restuarant Management system Focuses on some Specific Task
 
 
 ## USES AND BENEFITS OF A RESTUARNAT MANAGEMENT SYSTEM
+
 * # MORE PRODUCTIVITY:
 It enables your staff to concerntrate in the important task to improvee customer satisfaction and bussiness sucess. Instead, it handles time consuming procedures like table distribution and pricing lookups. It allows both kitchen staff and wait staff to concerntrate better on preparing food and providing better customer service.
 
-* # FEWER ERRORS:
+* ### FEWER ERRORS:
 There is a ot of room for error when an other is written manually by your Restuarant staff. Handwritting can be crabbed or ink can be remmoved accidentally. The benefits of a RMS includes reducing reducing the number of errors and increasing the speed of work by showing orders on the kitchen display screen. This way ratios of errors through both the wait table staff or waiter and kitchen staff or chef acn be minimized.
 
-* # KEEPING TRACK OF SALES:
+* ### KEEPING TRACK OF SALES:
 Resturant management is a challenging task. You have to go through a lot of complex situations to maintain a restuarant. A big part of maintaining a restuarant is handling a large amount of cash. At the same time, you have to keep track of daily credit card transcations. Keeeping track of this huge finanace manually is next to impossible. ut you can easily keep a record of all your transactions whether it is done by card or cash with a Restuarant management system.
 
 
@@ -44,7 +45,7 @@ The best Restuarant Management system will share similar traits and features, in
     * Intuitive menu Configuration
 
 
-# PROJECT OVERVIEWV
+### PROJECT OVERVIEWV
 
 
 
@@ -63,7 +64,7 @@ The best Restuarant Management system will share similar traits and features, in
 
 
 
-# INSTRUCTION #
+# #INSTRUCTION #
 Design a restaurant management system with classes like Restaurant, Menu, and Order.
 Implement functionalities such as managing menus, taking orders, and calculating bills.
 Use inheritance and encapsulation to model relationships between different components of the system.
