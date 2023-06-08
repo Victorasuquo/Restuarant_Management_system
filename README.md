@@ -1,7 +1,10 @@
+
+<img src="https://cdn.openpr.com/U/2/U224788928_g.jpg" alt="alt text" width="whatever" height="whatever">
+
 ## PROBLEM STATEMENT
 The existing restaurant management systems lack an efficient and well-structured design that incorporates key functionalities such as menu management, order taking, and bill calculation. These systems often suffer from a lack of proper encapsulation and inheritance, resulting in a complex and difficult-to-maintain codebase. Therefore, there is a need to design and develop a restaurant management system that addresses these shortcomings and provides an intuitive and robust solution for restaurant owners and staff.
 
-The problem at hand is to create a comprehensive and user-friendly restaurant management system that utilizes the principles of inheritance and encapsulation to model the relationships between different components of the system. The system should include classes such as Restaurant, Menu, and Order to effectively manage menus, facilitate order-taking, and accurately calculate bills. By implementing this system, it will streamline restaurant operations, enhance efficiency, and improve the overall dining experience for customers.
+The problem at hand is to create a user-friendly restaurant management system that utilizes the principles of inheritance and encapsulation to model the relationships between different components of the system. The system should include classes such as Restaurant, Menu, and Order to effectively manage menus, facilitate order-taking, and accurately calculate bills. By implementing this system, it will streamline restaurant operations, enhance efficiency, and improve the overall dining experience for customers.
 
 
 ## RESTUARANT MANAGEMENT SYSTEM 
@@ -70,11 +73,10 @@ The best Restuarant Management system will share similar traits and features, in
 
 ### Implemented Project Features
   - [x] Food Menu 
-  - [x] Making orders
+  - [x] Taking orders
   - [x] calculating bills
   - [x] paying bills
   - [x] customer feedback
-  - [x] log in 
 
 
 
@@ -85,6 +87,24 @@ Use inheritance and encapsulation to model relationships between different compo
 
 
 
-### HOW DOES THIS PROGRAM WORKS ##
-When you run this program, it displays a welcome message and prompts you to Enter the name of your Restuarant. Next, An instruction will pop for you to create a menu for your restuarant, you will be required to enter the the number of menus your restuarant have. While You fill in the name of your menu like __Breakfast Menu__, __Launch__ , The program requires you to enter the food contained in each menu. To exit or complete an instruction, use __"done"__. ...
+## THE CHALENGES
+* The challenges i had was understanding the ipmpletation of this concepts as well as where, how, why and whenn to use them.
+I solved this problem by going back to the review resources online.
 
+* The program was rerturning the storage location of an object, but taht was'nt really usefull. 
+
+* The food items wrapped to a particular menu.  
+
+
+
+### LESSONS LEARNED ##
+* I have learnt that before the you write a An Objet Orinted Program especially when involves more methods and classes, it is important to bring a chair, seat down like you want to select beans and draw to the model and flow of the program. This will help give you direction and save time of thinking about what to do. 
+
+
+#### REFERENCE
+- openpr.com
+- scaler topics
+- resturant 365
+- bd task
+
+### --------------------THANKS----------------------
