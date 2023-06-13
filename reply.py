@@ -135,8 +135,9 @@ menu1.add_item(food1)
 menu2.add_item(food2)
 menu3.add_item(food3)
 menu4.add_item(food4)
-
-menu1.display()
+restaurant.display_menus()
+# menu1.display()
+restaurant.remove_menu(menu1)
 
 restaurant.display_menus()
 

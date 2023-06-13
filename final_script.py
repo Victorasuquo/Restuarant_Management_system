@@ -1,3 +1,8 @@
+import random
+random_number = random.randint(1, 9)
+print(random_number)
+
+
 class Restaurant:
     def __init__(self, company_name, company_slogan):
         self.company_name = company_name
@@ -102,6 +107,10 @@ class Feedback:
 
 
 print("*********************************************")
+restaurant_name = input("Enter your Restaurant Name: ") 
+
+
+
 restaurant = Restaurant("Tasty", "We deliver the best taste")
 restaurant.display_company_details()
 
